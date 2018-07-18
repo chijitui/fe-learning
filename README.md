@@ -6,6 +6,10 @@
 
 ### ES6+
 - [装饰器 Decorator](https://github.com/chijitui/fe-learning/blob/master/ES6+/Decorator.md)
+- [Promise 异步控制流](https://github.com/chijitui/fe-learning/blob/master/ES6+/Promise异步控制流.md)
 
 ### 前端安全
 - [反爬虫](http://litten.me/2017/07/09/prevent-spiders/)
+
+### 面试相关
+- [promise](https://github.com/chijitui/fe-learning/blob/master/面试题/promise.md)
