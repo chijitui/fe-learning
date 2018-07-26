@@ -8,6 +8,13 @@
 - [装饰器 Decorator](https://github.com/chijitui/fe-learning/blob/master/ES6+/Decorator.md)
 - [Promise 异步控制流](https://github.com/chijitui/fe-learning/blob/master/ES6+/Promise异步控制流.md)
 
+### 设计模式
+- [工厂模式](https://github.com/chijitui/fe-learning/blob/master/设计模式/工厂模式.md)
+- [代理模式](https://github.com/chijitui/fe-learning/blob/master/设计模式/代理模式.md)
+
+### Node.js
+- [中间件模式](https://github.com/chijitui/fe-learning/blob/master/Node.js/中间件模式.md)
+
 ### 前端安全
 - [反爬虫](http://litten.me/2017/07/09/prevent-spiders/)
 
