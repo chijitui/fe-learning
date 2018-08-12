@@ -19,7 +19,7 @@
 - [代理模式](https://github.com/chijitui/fe-learning/blob/master/设计模式/代理模式.md)
 
 ### Node.js
-- 
+- http
 - [require.js](https://github.com/chijitui/fe-learning/blob/master/Node.js/require.md)
 - Event Loop
 - [中间件模式](https://github.com/chijitui/fe-learning/blob/master/Node.js/中间件模式.md)
