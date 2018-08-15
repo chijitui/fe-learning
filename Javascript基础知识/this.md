@@ -136,3 +136,5 @@ Function.prototype.bind = function(context, ...rest) {
 - 返回新对象。
 
 所以啊，`this`就自然指向实例化出的对象了。
+
+> 最后，推荐阅读 [[译] 深入浅出 JavaScript 关键词 -- this](https://juejin.im/post/5aefe76e6fb9a07abc29d4a1)，这篇文章几乎覆盖了每个细节！
